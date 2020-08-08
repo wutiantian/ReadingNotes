@@ -48,6 +48,7 @@
 办公|XMind ZEN|思维导图
 办公|typora|https://www.typora.io/文本（Markdown）剪辑器
 影音|KMPlayer|万能播放器，字幕与视频同步，不会像国内软件那样出错
+办公|ABBYY|大型OCR识别转换成office软件。识别格式排版极好
 
 # 网站
 
